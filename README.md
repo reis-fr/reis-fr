@@ -6,4 +6,4 @@ I spend my time learning new things, improving my coding skills, and building pr
 Bot development is where I experiment the most, especially with automation and Discord applications.  
 Currently I’m working on my user application **3xito**, which I’m actively developing and improving.
 
-[ Add 3xito ](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID)
+[ Add 3xito ](https://discord.com/oauth2/authorize?client_id=1479933569546719433)
