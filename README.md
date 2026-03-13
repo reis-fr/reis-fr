@@ -6,4 +6,4 @@ I spend my time learning new things, improving my coding skills, and building pr
 Bot development is where I experiment the most, especially with automation and Discord applications.  
 Currently I’m working on my music bot **Ely**, which I’m actively developing and improving.
 
-<a href="https://botliy.online/bot/1481385426869555211"><img src="https://botliy.online/api/bots/1481385426869555211/widget" alt="Ely Widget"></a>
+[![Ely](https://botliy.online/api/widget/1481385426869555211)](https://botliy.online/bot/1481385426869555211)
